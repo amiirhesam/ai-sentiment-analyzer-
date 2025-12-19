@@ -24,4 +24,5 @@ A simple and powerful web application for text sentiment analysis using AI (Hugg
 
 Perfect project to showcase AI and web development skills in your portfolio! 🚀
 
-![Demo Screenshot](screenshots/demo1.png) <!-- Add your screenshots later -->
+![Demo Screenshot](screenshots/demo1.png) <!-- Add your screen![IMG_4910](https://github.com/user-attachments/assets/9a22ad19-e695-4ad6-94d7-4283db72e971)
+shots later -->
