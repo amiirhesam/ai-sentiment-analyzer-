@@ -7,8 +7,7 @@ A simple and powerful web application for text sentiment analysis using AI (Hugg
 - Beautiful and responsive UI
 - Built with Python + Flask + Transformers
 
-## Live Demo
-(Add your deployed link here after deployment)
+
 
 ## Installation & Run Locally
 1. `git clone https://github.com/YOUR_USERNAME/ai-sentiment-analyzer.git`
